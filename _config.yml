@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Sydney Jameson-Blowers
+course_description: "Hi! My name is Sydney and I am a 4th year PhD student in the Department of Romance Languages and Literatures at the University at Buffalo. My research interests lie in the area of Creole studies, semantic typology, and language documentation, with a focus on Lengua Palenquera (LP), a Spanish-based Creole language spoken in rural Colombia. I have recently returned from the field, where I conducted two experiments with speakers of LP centered on causal construction in the language. I am currently analyzing the data from this project, and plan to return to the field and run a third experiment during the summer of 2024. I also value collaboration highly, and for this reason, I am an active member of two research groups at the University at Buffalo The Linguistics Fieldwork Group and the UB Romance Research Literacy Lab. The most recent research I completed, in May of 2022, is titled 'Semantic Variation in Argentine Spanish The Domain of Cutting and Breaking'. This research explored  semantic variation in descriptions of cutting and breaking events among speakers of two varieties of Argentine Spanish. This involved the remote recruitment of participants and the remote conduction of experiments, as well as statistical analysis using R-Studio. Previously, in 2020, I completed research titled 'Age-Based Variation in the Tonada Cordobesa: a Phonetic and Phonological Approach'. For this, I conducted a study in Córdoba, Argentina in 2019 to investigate the effects of age on the expression of speech markers unique to the Cordobés dialect of Spanish. I have served as the Instructor of Record for SPA101 Elementary Spanish, SPA102 Elementary Spanish (2nd Semester), and SPA104 Transitional Elementary Spanish. In this role, I discovered new ways to explain linguistic concepts and assist a variety of students in developing a second or third language. Using proven pedagogical principles, I create a comfortable, welcoming classroom environment that encourages students to put their new skills into practice. I applied principles of Backward Design, considering the end goal of the lesson, unit, and semester when planning each day, and Universal Design, making each lesson as accessible as possible so that any student can participate, regardless of physical or mental ability."
+course_semester: "X"
 
-baseurl: "/personal_site" # the subpath of your site, e.g. /blog/
+baseurl: "/personal" # the subpath of your site, e.g. /blog/
 url: "http://sjamesonblowers.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "University at Buffalo"
+schoolurl: "https://buffalo.edu"
+twitter_username: @sydjameblow
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    930 Clemens Hall
+    University at Buffalo
+    Buffalo, NY
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
